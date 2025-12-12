@@ -8,6 +8,6 @@ This repository documents my journey through various frontend development challe
 
 **Profile:** [@itsdevdipen](https://www.frontendmentor.io/profile/itsdevdipen)  
 **Total Points:**  
-**Rank:** Top 15%  
+**Rank:**
 **Member Since:** December 2025  
 **Total Hours:**
